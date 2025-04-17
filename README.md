@@ -1,4 +1,4 @@
-<img align="right"  src = "image.png" width="300" style="margin-top: 20px;"/>
+<img align="right"  src = "image.png" width="300" style="margin-top: 220px;"/>
 
 
 # Ricardo C. Albuquerque M. Jr
