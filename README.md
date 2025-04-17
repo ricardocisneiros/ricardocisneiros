@@ -1,4 +1,5 @@
-<img src = "image.png" width = "225px" align = "right">
+<img align="right"  src = "image.png" width="300" style="margin-top: 20px;"/>
+
 
 # Ricardo C. Albuquerque M. Jr
   <div id="badges">
