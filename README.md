@@ -13,8 +13,8 @@
 
 Tech Lead | Cloud Network Engineer
 
-- 📌 Habilidades: Linux, AWS e Terraform
-- 👩‍💻 No meu tempo livre costumo jogar e efetuar atividades físicas 
+- ✏️ Habilidades: Linux, AWS e Terraform
+- 🆓 No meu tempo livre costumo jogar e efetuar atividades físicas 
 
 🛠 Tecnologias
 <div>
