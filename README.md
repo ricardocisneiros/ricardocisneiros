@@ -1,16 +1,30 @@
-## Hi there 👋
+<img src = "banner.gif" width = "325px" align = "right">
 
-<!--
-**ricardocisneiros/ricardocisneiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ricardo C. Albuquerque M. Jr
+  <div id="badges">
+  <a href = "https://www.linkedin.com/in/ricardo-cisneiros/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href = "mailto: ricardo.cisneiros2015@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+Tech Lead | Cloud Network Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ❤ Estudante de Game Design
+- 📌 Habilidades: Linux, AWS e Terraform
+- 👩‍💻 No meu tempo livre costumo jogar e efetuar atividades físicas 
+
+🛠 Tecnologias
+<div>
+  <img src="https://camo.githubusercontent.com/795a7bdf284dcb5d862ca6581e02f505ae1e8965965be9116e1d93737c063c84/68747470733a2f2f74686961676f616c6578616e647269612e636f6d2e62722f6173736574732f696d672f7465727261666f726d2d6c6f676f2e706e67" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=risoflorais&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+</div>
