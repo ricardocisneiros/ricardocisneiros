@@ -1,4 +1,4 @@
-<img align="right"  src = "image.png" width="300" style="margin-top: 220px;"/>
+<img align="right" src="https://raw.githubusercontent.com/ricardocisneiros/ricardocisneiros/main/image.png" width="300" style="margin-top: 20px;"/>
 
 
 # Ricardo C. Albuquerque M. Jr
