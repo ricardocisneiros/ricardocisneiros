@@ -25,6 +25,6 @@ Tech Lead | Cloud Network Engineer
 
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardocisneiros&show_icons=true&theme=merko"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocisneiros&layout=compact&langs_count=16&theme=merko" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ricardocisneiros&show_icons=true&theme=merko"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocisneiros&layout=compact&langs_count=16&theme=merko" />
 <div>
