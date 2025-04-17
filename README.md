@@ -12,7 +12,6 @@
 
 Tech Lead | Cloud Network Engineer
 
-- ❤ Estudante de Game Design
 - 📌 Habilidades: Linux, AWS e Terraform
 - 👩‍💻 No meu tempo livre costumo jogar e efetuar atividades físicas 
 
