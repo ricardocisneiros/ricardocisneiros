@@ -1,5 +1,4 @@
-<br><br><br>
-<img align="right" src="https://raw.githubusercontent.com/ricardocisneiros/ricardocisneiros/main/image.png" width="300"/>
+<img src = "image.png" width = "275px" align = "right">
 
 
 # Ricardo C. Albuquerque M. Jr
