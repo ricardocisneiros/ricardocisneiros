@@ -18,10 +18,15 @@ Tech Lead | Cloud Network Engineer
 
 🛠 Tecnologias
 <div>
-  <a href="https://www.terraform.io/" target="_blank">
+  <a href="https://www.terraform.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://camo.githubusercontent.com/795a7bdf284dcb5d862ca6581e02f505ae1e8965965be9116e1d93737c063c84/68747470733a2f2f74686961676f616c6578616e647269612e636f6d2e62722f6173736574732f696d672f7465727261666f726d2d6c6f676f2e706e67" title="Terraform" alt="Terraform" width="40" height="40"/>
   </a>&nbsp;
+
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+  </a>&nbsp;
 </div>
+
 
 
 ---
